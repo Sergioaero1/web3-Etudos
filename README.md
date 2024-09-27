@@ -5,13 +5,17 @@ Project from the fifth Web3 Week (30-set-24). https://www.luiztools.com.br/w3w
 Our BetCandidate.sol smart contract.
 
 ## dapp
-Our BetCandidate web3 frontend. (soon)
+Our BetCandidate web3 frontend.
 
 ## More
 
 Live 01: https://youtube.com/live/AAtz0LSfGVY?feature=share
 
-Live 02: soon
+Live 02: https://youtube.com/live/MwdZ6f4Yesw?feature=share
+
+Live 03: https://youtube.com/live/du-vyg_9eA0?feature=share
+
+Live 04: soon
 
 Follow me on social networks for more: https://about.me/luiztools
 
