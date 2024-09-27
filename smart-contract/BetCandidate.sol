@@ -31,10 +31,10 @@ contract BetCandidate {
     constructor(){
         owner = msg.sender;
         dispute = Dispute({
-            candidate1: "Donald Trump",
-            candidate2: "Kamala Harris",
-            image1: "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
-            image2: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/800px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+            candidate1: "D. Trump",
+            candidate2: "K. Harris",
+            image1: "http://bit.ly/3zmSfiA",
+            image2: "http://bit.ly/4gF4mYO",
             total1: 0,
             total2: 0,
             winner: 0
