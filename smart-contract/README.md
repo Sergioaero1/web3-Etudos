@@ -12,6 +12,10 @@ Our BetCandidate smart contract. Project from Web3 Week: https://www.luiztools.c
 
 ## More
 
+Faucets: https://faucet.luiztools.com.br
+
+MetaMask configuration: https://www.luiztools.com.br/post/como-configurar-a-metamask-para-desenvolvimento-blockchain/
+
 Follow me on social networks for more: https://about.me/luiztools
 
 Receive my news on Telegram: https://t.me/luiznews

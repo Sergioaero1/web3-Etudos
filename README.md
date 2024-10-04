@@ -15,7 +15,9 @@ Live 02: https://youtube.com/live/MwdZ6f4Yesw?feature=share
 
 Live 03: https://youtube.com/live/du-vyg_9eA0?feature=share
 
-Live 04: soon
+Live 04: https://youtube.com/live/30UTEClgI5Y?feature=share
+
+Live 05: https://youtube.com/live/cQvXGCIQAz0?feature=share
 
 Follow me on social networks for more: https://about.me/luiztools
 
